@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Oct 25 13:28:06 2016
+
+@author: Artur
+"""
+
+import numpy as np
+
+heigt = np.random.random((1/2,5))
+prints(heigt)
